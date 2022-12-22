@@ -1,6 +1,6 @@
 # Mark-Eight-Emoji-Interpreter-WebApp
 
-Tech Stack: A react app Created with CodeSandbox using HTML, CSS, javascript and react.js.
+Tech Stack: A react app Created with CodeSandbox using HTML, CSS, javascript.
 
 About: 
 "Emoji Interpreter". This project was made as part of Level Zero of Neogcamp.
